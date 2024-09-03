@@ -1,6 +1,6 @@
 # NestJS Database Module
 
-A  database module for NestJS applications, built on top of TypeORM.
+A database module for NestJS applications, built on top of TypeORM.
 
 ## Installation
 
@@ -8,7 +8,7 @@ A  database module for NestJS applications, built on top of TypeORM.
 npm install @nestjs-db-module/core
 
 
-### Configuration
+## Configuration
 
 The `register` method accepts a `DatabaseConfig` object with the following properties:
 
