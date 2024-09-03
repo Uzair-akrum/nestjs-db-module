@@ -1,6 +1,6 @@
 {
   "name": "nestjs-db-module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A dynamic module for NestJS to connect to a database",
   "keywords": [
     "nestjs",
