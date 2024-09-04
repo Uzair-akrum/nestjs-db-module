@@ -40,10 +40,7 @@ Registers the database connection with the given configuration.
 ### `DatabaseModule.forEntity(config: DatabaseConfig, entities: EntityClassOrSchema[]): DynamicModule`
 
 Registers the specified entities for the given database configuration.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+ 
 
 ## License
 
